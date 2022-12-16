@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>13&apos;s Portfolio</title>
+        <title>Yen&apos;s Portfolio</title>
       </Head>
 
       <Header />
